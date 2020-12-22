@@ -1,2 +1,3 @@
 # hello-world
-First repository
+Hi all,
+I am creating my first repository along with new branch.
